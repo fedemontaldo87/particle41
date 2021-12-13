@@ -42,7 +42,7 @@ NOTE: Developed using Terraform 0.12.x syntax.
 ```bash
 cd ~
 
-git clone git@github.com:Sensedia/open-tools.git
+git clone git@github.com:fedemontaldo87/particle41.git
 
 cd ~/open-tools/terraform/eks/mycluster-eks
 ```
