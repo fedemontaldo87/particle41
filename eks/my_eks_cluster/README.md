@@ -44,7 +44,7 @@ cd ~
 
 git clone git@github.com:fedemontaldo87/particle41.git
 
-cd ~/open-tools/terraform/eks/mycluster-eks
+cd ~eks/my_eks_cluster
 ```
 
 ## How to
