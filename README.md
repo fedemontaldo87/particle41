@@ -107,7 +107,11 @@ security_group
 
 subnet_private1
 
+subnet_private2
+
 subnet_public1
+
+subnet_public_2
 
 vpc1
 
